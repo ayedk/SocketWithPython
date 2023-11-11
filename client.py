@@ -24,5 +24,4 @@ print(str(response.decode()))
 while(1):
     EnvoyerPrix(s)
 
-
 sys.exit()
